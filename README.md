@@ -26,6 +26,10 @@ Pentru a rula aplicația, folosiți comanda java -jar:
   java -jar target/textanalyzer-1.0-SNAPSHOT.jar -file=<cale_către_fișier> -top=<număr_top> -phraseSize=<dimensiune_frază>
 ```
 
+## Fișier
+
+În cadrul la src, în folder-ul files este un fișier txt, cu informații, pentru verificare.
+
 ## Structura Proiectului
 ###  src/main/java/com/example/textanalyzer
 
